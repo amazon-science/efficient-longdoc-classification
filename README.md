@@ -95,7 +95,7 @@ cf. Note that we use the source code for the CogLTX model: <https://github.com/S
 
 ### Hyperparameters used
 
-####* Hyperpartisan
+#### Hyperpartisan
 
 | Parameter  | BERT  | BERT+TextRank | BERT+Random | Longformer                                        | ToBERT |
 |------------|-------|---------------|-------------|---------------------------------------------------|--------|
@@ -104,7 +104,7 @@ cf. Note that we use the source code for the CogLTX model: <https://github.com/S
 | LR         | 3e-05 | 3e-05         | 5e-05       | 5e-05                                             | 5e-05  |
 | Scheduler  | NA    | NA            | NA          | [warmup](https://arxiv.org/abs/2004.05150)  | NA     |
 
-####* 20NewsGroups, Book Summary, Paired Book Summary
+#### 20NewsGroups, Book Summary, Paired Book Summary
 
 | Parameter  | BERT  | BERT+TextRank | BERT+Random | Longformer                                        | ToBERT |
 |------------|-------|---------------|-------------|---------------------------------------------------|--------|
@@ -113,7 +113,7 @@ cf. Note that we use the source code for the CogLTX model: <https://github.com/S
 | LR         | 3e-05 | 3e-05         | 3e-05       | 0.005                                             | 3e-05  |
 | Scheduler  | NA    | NA            | NA          | [warmup](https://arxiv.org/abs/2004.05150)  | NA     |
 
-####* EURLEX, Inverted EURLEX
+#### EURLEX, Inverted EURLEX
 
 | Parameter  | BERT  | BERT+TextRank | BERT+Random | Longformer                                        | ToBERT |
 |------------|-------|---------------|-------------|---------------------------------------------------|--------|
