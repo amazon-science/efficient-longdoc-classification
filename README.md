@@ -3,7 +3,20 @@
 Please refer to our paper for more details and cite our paper if you find this repo useful:
 
 ```
-citation: TBD
+@inproceedings{park-etal-2022-efficient,
+    title = "Efficient Classification of Long Documents Using Transformers",
+    author = "Park, Hyunji  and
+      Vyas, Yogarshi  and
+      Shah, Kashif",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-short.79",
+    doi = "10.18653/v1/2022.acl-short.79",
+    pages = "702--709",
+}
 ```
 
 ## Instructions
